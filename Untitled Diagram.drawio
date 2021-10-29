@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2021-10-29T10:09:48.993Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" version="15.6.2" etag="qRqCigBxFGT7Yu4cyxoF" type="github"><diagram id="AbW2qCXDr5Q5CsdvBds8">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-10-29T10:15:49.126Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="4F5VxPcitns0chXpUad2" version="15.6.2" type="github">
+  <diagram id="AbW2qCXDr5Q5CsdvBds8" name="Page-1">
+    <mxGraphModel dx="782" dy="439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CITLuRBqB_Kp5YGtX8xs-1" value="отследить изменение любого инпута" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="123" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CITLuRBqB_Kp5YGtX8xs-2" value="создаем обьект со всеми текущими настройками" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CITLuRBqB_Kp5YGtX8xs-3" value="вызываем функцию которая записывает все из обьекта куда надо" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="302" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
